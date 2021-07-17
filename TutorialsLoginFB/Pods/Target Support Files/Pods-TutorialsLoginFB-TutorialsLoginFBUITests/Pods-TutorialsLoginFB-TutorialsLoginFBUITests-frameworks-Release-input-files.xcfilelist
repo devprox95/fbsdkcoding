@@ -1,3 +1,4 @@
 ${PODS_ROOT}/Target Support Files/Pods-TutorialsLoginFB-TutorialsLoginFBUITests/Pods-TutorialsLoginFB-TutorialsLoginFBUITests-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework
+${BUILT_PRODUCTS_DIR}/FBSDKCoreKit_Basics/FBSDKCoreKit_Basics.framework
 ${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework

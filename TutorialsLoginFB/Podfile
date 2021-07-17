@@ -6,7 +6,7 @@ target 'TutorialsLoginFB' do
   use_frameworks!
 
   # Pods for TutorialsLoginFB
-  pod 'FBSDKLoginKit'
+  pod 'FBSDKLoginKit', '~> 11.0.1'
 
   target 'TutorialsLoginFBTests' do
     inherit! :search_paths
